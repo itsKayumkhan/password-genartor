@@ -115,7 +115,7 @@ input
     justify-content: center;
     align-items: center;
 }
-@media only screen and (max-width: 330px)
+@media only screen and (max-width: 400px)
 {
     .mini{        flex-wrap: wrap;
         width: 90%;
